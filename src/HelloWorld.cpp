@@ -1,4 +1,4 @@
-#include "../include/HelloWorld.hpp"
+#include "HelloWorld.hpp"
 #include<iostream>
 using namespace std;
 void HelloWorld::myPrint(string name, int age){
